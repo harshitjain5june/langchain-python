@@ -1,3 +1,4 @@
 .env
 doc.json
 poetry.lock
+**pycache**
